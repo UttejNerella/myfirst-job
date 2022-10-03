@@ -1,6 +1,6 @@
 classhello{
 
-publicstatic void main(Stringarg[]){
+public static void main(Stringarg[]){
 
 System.out.println("hello world");
 
